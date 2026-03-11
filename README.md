@@ -55,3 +55,19 @@ cd backend && npm install && npm run start:dev
 - API `/restaurants` publique avec filtres (city, cuisine)
 - `/restaurants/:slug` pour les pages restaurant
 - Chaque vendeur gère ses propres produits/catégories
+
+![Espace Vendeur/propriétaire](images/image1.png)
+
+![Page légal modifiable](images/image2.png)
+
+![App client](images/image3.png)
+
+![Page formulaire pour les restaurants](images/image4.png)
+
+![Platform Super-Administrateur](images/image5.png)
+
+![Dashbord Vendeur/propriétaire](images/image6.png)
+
+![Page connexion a la cuisine](images/image7.png)
+
+![Page principale de la cuisine](images/image8.png)
